@@ -1,0 +1,175 @@
+body
+{
+	background-color: #4196AF;
+	color:white;
+	font-size: 18px;
+	font-family: 'Inconsolata';
+	margin: 0 0 0 0;
+
+}
+#top
+{
+	margin-top: 0;
+	height: 60px;
+	background: white;
+	padding-top:40px;
+	
+	
+	
+}
+#container
+{
+width: 704px;
+margin-left: auto;
+margin-right: auto;
+	
+}
+#content
+{
+margin-left: auto;
+margin-right: auto;
+margin-top: 36px;
+background-color: #F26101;
+height: 500px;
+width: 400px;
+text-align: center;
+
+	
+}
+#login
+{
+	color: black;
+	background-color: #fafafa;
+	width: 200px;
+	height: 382px; //300
+	margin-top: 20px;
+	padding-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	
+
+	
+}
+#logo
+{
+	font-size: 75px;
+		margin-left: auto;
+	margin-right: auto;
+	
+text-align:center;
+}
+
+.przycisk
+{
+	background-color: #F26101;
+	font-size: 16px;
+	padding: 10px;
+	text-align:center;
+	color:white;
+	border: none;
+	display: inline-block;
+	margin-top: 5px;
+	text-decoration: none;
+	
+}
+#menu
+{
+	height: 618px;
+	width:1000px;
+	border: 5px solid #fafafa;
+	margin-right: auto;
+	margin-left: auto;
+	
+	
+}
+#leweMenu
+{
+	height: 618px;
+	width:618px;
+	background-color:#188199;
+	float:left;
+}
+#leweMenu > div
+{
+	width:186px; 
+	height: 362px;
+	
+	float:left;
+	padding: 10px;
+
+	
+	
+	
+}
+.napis
+{
+	text-align: center;
+	
+}
+.dolDiv
+{
+	border-top: 5px solid #fafafa;
+	background-color:#4196AF;
+	color: black;
+	text-align: center;
+}
+
+#leweMenu > div > span
+{
+	text-align: left;
+	align: left;
+
+	
+}
+#leweMenu > div > img
+{
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+#praweMenu1
+{
+	height:231px;
+	width:377px;
+	float:left;
+	background-color:#188199;
+	border-left: 5px solid #fafafa;
+	border-bottom: 5px solid #fafafa;
+}
+#praweMenu2
+{
+	float:left;
+	height: 382px;
+	width:377px;
+	background-color:#4196AF;
+	border-left: 5px solid #fafafa;
+	
+	
+	
+}
+#test
+{
+	height: 70px; 
+	background-color:#fafafa; 
+	width: 400px;
+	margin-top: 30px;
+	color: black;
+	font-size: 28px;
+	border: 2px solid $fafafa;
+	border-radius: 2px;
+
+
+}
+#uberMenu
+{
+	
+	
+	width:600px;
+	padding: 20px;
+	border: 5px solid #fafafa;
+	background-color: #4196AF;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+	
